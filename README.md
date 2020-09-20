@@ -16,10 +16,12 @@ A table software/hardware projects from Eastern Europe:
 | [JetBrains](https://github.com/JetBrains)                 | Czech Republic, Russia   | IDE                      | X       |
 | [Kaspersky](https://github.com/search?q=kaspersky)        | Russia                   | Programming language     |         |
 | [Kotlin](https://github.com/kotlin)                       | Czech Republic, Russia   | Programming language     | X       |
+| [mail.ru](https://github.com/mailru)                      | Russia                   | E-mail                   | X       |
 | [Nginx](https://github.com/nginx)                         | Russia                   | Web server               | X       |
 | [Olimex](https://github.com/olimex)                       | Bulgaria                 | Hardware                 | X       |
 | [Red](https://github.com/red)                             | Montenegro               | Programming language     | X       |
 | [Rapira](https://github.com/search?q=rapira)              | Russia                   | Programming language     |         |
-| [WinRAR](https://github.com/search?q=winrar)              | Russia                   | File archiver            |         |
-| [7-Zip](https://github.com/search?q=7z)                   | Russia                   | File archiver            |         |
 | [Škoda](https://github.com/search?q=skoda)                | Czech Republic           | Car                      |         |
+| [WinRAR](https://github.com/search?q=winrar)              | Russia                   | File archiver            |         |
+| [Yandex](https://github.com/yandex)                       | Russia                   | Search Engine            |         |
+| [7-Zip](https://github.com/search?q=7z)                   | Russia                   | File archiver            |         |
