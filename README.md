@@ -23,5 +23,5 @@ A table software/hardware projects from Eastern Europe:
 | [Rapira](https://github.com/search?q=rapira)              | Russia                   | Programming language     |         |
 | [Škoda](https://github.com/search?q=skoda)                | Czech Republic           | Car                      |         |
 | [WinRAR](https://github.com/search?q=winrar)              | Russia                   | File archiver            |         |
-| [Yandex](https://github.com/yandex)                       | Russia                   | Search Engine            |         |
+| [Yandex](https://github.com/yandex)                       | Russia                   | Search Engine            | X       |
 | [7-Zip](https://github.com/search?q=7z)                   | Russia                   | File archiver            |         |
