@@ -16,8 +16,8 @@ A table software/hardware projects from Eastern Europe:
 | [JetBrains](https://github.com/JetBrains)                 | Czech Republic, Russia   | IDE                      | X       |
 | [Kaspersky](https://github.com/search?q=kaspersky)        | Russia                   | Programming language     |         |
 | [Kotlin](https://github.com/kotlin)                       | Czech Republic, Russia   | Programming language     | X       |
-| [Nginx](https://github.com/nginx)                         | Russia                   | Self-hosted web server   | X       |
-| [Olimex](https://github.com/olimex)                       | Bulgaria                 | Open-source hardware     | X       |
+| [Nginx](https://github.com/nginx)                         | Russia                   | Web server               | X       |
+| [Olimex](https://github.com/olimex)                       | Bulgaria                 | Hardware                 | X       |
 | [Red](https://github.com/red)                             | Montenegro               | Programming language     | X       |
 | [Rapira](https://github.com/search?q=rapira)              | Russia                   | Programming language     |         |
 | [WinRAR](https://github.com/search?q=winrar)              | Russia                   | File archiver            |         |
