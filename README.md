@@ -31,6 +31,7 @@ A table software/hardware projects from Eastern Europe:
 
 
 <br>
+
 **Spisak naših tehnoloških projekti i firmi iz država:**
 - Bělorus/Бєлорус (.by)
 - Bosnija i Hercegovina/Боснија и Херцеговина (.ba)
