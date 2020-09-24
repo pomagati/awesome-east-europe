@@ -25,11 +25,14 @@ A list of software, hardware and technology companies from Eastern Europe:
 | [Red](https://github.com/red)                             | Montenegro               | N. Rakočević                                      | Programming language         | X       |
 | [Rapira](https://github.com/search?q=rapira)              | Russia                   |                                                   | Programming language         |         |
 | [RISC-V](https://en.wikipedia.org/wiki/RISC-V)            | ~~Croatia~~ (USA)        | K. Asanović                                       | Instruction Set Architecture |         |
+| [SiFive](https://en.wikipedia.org/wiki/https://github.com/sifive) | ~~Croatia~~ (USA)        | K. Asanović                               | Hardware                     |         |
 | [Škoda](https://github.com/search?q=skoda)                | Czech Republic           |                                                   | Car                          |         |
 | [WinRAR](https://github.com/search?q=winrar)              | Russia                   | E. Rošal, A. Rošal                                | File archiver                |         |
 | [Yandex](https://github.com/yandex)                       | Russia                   | A. Volož, A. Borkovski, I. Segalović             | Search Engine                | X       |
 | [7-Zip](https://github.com/search?q=7z)                   | Russia                   | I. Pavlov                                         | File archiver                |         |
 
+
+https://github.com/hifive
 
 <br>
 
