@@ -1,6 +1,6 @@
 # Awesome East Europe
 
-A table software/hardware projects from Eastern Europe:
+A table software, hardware and technology companies from Eastern Europe:
 
 
 | Name                                                      | Country                  | Key People                                        | Description                  | Github  |
