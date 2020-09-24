@@ -17,6 +17,7 @@ A table software/hardware projects from Eastern Europe:
 | [Kaspersky](https://github.com/search?q=kaspersky)        | Russia                   |                                                   | Programming language         |         |
 | [Kotlin](https://github.com/kotlin)                       | Czech Republic, Russia   | A. Breslav                                        | Programming language         | X       |
 | [mail.ru](https://github.com/mailru)                      | Russia                   |                                                   | E-mail                       | X       |
+| [MikroElektronika](https://github.com/mikroelektronika)   | Serbia                   |                                                   | Hardware                     | X       |
 | [Nginx](https://github.com/nginx)                         | Russia                   | I. Sysoev                                         | Web server                   | X       |
 | [Olimex](https://github.com/olimex)                       | Bulgaria                 |                                                   | Hardware                     | X       |
 | [PlatformIO](https://github.com/platformio)               | Ukraine                  | I. Kravets, V. Koval, V. Sidorenko                | Embedded Programming Tool    | X       |
