@@ -25,5 +25,5 @@ A table software/hardware projects from Eastern Europe:
 | [RISC-v](https://en.wikipedia.org/wiki/RISC-V)            | Croatia                  | K. Asanović                                       | Instruction Set Architecture |         |
 | [Škoda](https://github.com/search?q=skoda)                | Czech Republic           |                                                   | Car                          |         |
 | [WinRAR](https://github.com/search?q=winrar)              | Russia                   | E. Rošal, A. Rošal                                | File archiver                |         |
-| [Yandex](https://github.com/yandex)                       | Russia                   | A. Volozh, A. Borkovsky, I. Segalović             | Search Engine                | X       |
+| [Yandex](https://github.com/yandex)                       | Russia                   | A. Volož, A. Borkovsky, I. Segalović             | Search Engine                | X       |
 | [7-Zip](https://github.com/search?q=7z)                   | Russia                   | I. Pavlov                                         | File archiver                |         |
