@@ -33,8 +33,6 @@ A list of software, hardware and technology companies from Eastern Europe:
 | [7-Zip](https://github.com/search?q=7z)                   | Russia                   | I. Pavlov                                         | File archiver                |         |
 
 
-https://github.com/hifive
-
 <br>
 
 **Spisak naših tehnoloških projekti i firmi iz država:**
