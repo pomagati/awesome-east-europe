@@ -30,6 +30,7 @@ A table software/hardware projects from Eastern Europe:
 | [7-Zip](https://github.com/search?q=7z)                   | Russia                   | I. Pavlov                                         | File archiver                |         |
 
 
+<br>
 **Spisak naših tehnoloških projekti i firmi iz država:**
 - Bělorus/Бєлорус (.by)
 - Bosnija i Hercegovina/Боснија и Херцеговина (.ba)
