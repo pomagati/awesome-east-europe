@@ -28,3 +28,20 @@ A table software/hardware projects from Eastern Europe:
 | [WinRAR](https://github.com/search?q=winrar)              | Russia                   | E. Rošal, A. Rošal                                | File archiver                |         |
 | [Yandex](https://github.com/yandex)                       | Russia                   | A. Volož, A. Borkovsky, I. Segalović             | Search Engine                | X       |
 | [7-Zip](https://github.com/search?q=7z)                   | Russia                   | I. Pavlov                                         | File archiver                |         |
+
+
+**Spisak naših tehnoloških projekti i firmi iz država:**
+Bělorus/Бєлорус (.by)
+Bosnija i Hercegovina/Боснија и Херцеговина (.ba)
+Bulgarija/Булгарија (.bg)
+Črna Gora/Чрна Гора (.me)
+Čehija/Чехија (.cz)
+Hrvatija/Хрватија (.hr)
+Makedonija/Македонија (.mk)
+Poljska/Пољска (.pl)
+Rosija/Росија (.ru)
+Slovakija/Словакија (.sk)
+Slovenija/Словенија (.si)
+Srbija/Србија (.rs)
+Ukrajina/Украјина (.ua)
+
