@@ -15,6 +15,7 @@ A list of software, hardware and technology companies from Eastern Europe:
 | [jEdit](https://github.com/search?q=jedit)                | Russia                   |                                                   | IDE                          |         |
 | [JetBrains](https://github.com/JetBrains)                 | Czech Republic, Russia   |                                                   | IDE                          | X       |
 | [Kaspersky](https://github.com/search?q=kaspersky)        | Russia                   |                                                   | Programming language         |         |
+| [Končar](https://en.wikipedia.org/wiki/KON%C4%8CAR_Group) | Croatia                  |                                                   | Energy                       |         |
 | [Kotlin](https://github.com/kotlin)                       | Czech Republic, Russia   | A. Breslav                                        | Programming language         | X       |
 | [mail.ru](https://github.com/mailru)                      | Russia                   |                                                   | E-mail                       | X       |
 | [MikroElektronika](https://github.com/mikroelektronika)   | Serbia                   |                                                   | Hardware                     | X       |
