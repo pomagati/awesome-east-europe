@@ -11,7 +11,7 @@ A table software/hardware projects from Eastern Europe:
 | [Elbrus](https://github.com/search?q=elbrus)              | Russia                   |                                                   | Hardware                     |         |
 | [Factor](https://github.com/factor)                       | Russia                   |                                                   | Programming language         | X       |
 | [Gorenje](https://github.com/search?q=gorenje)            | Slovenia                 |                                                   |                              |         |
-| [Interslavic](https://github.com/scherebedov/interslavic) | Czech Republic           | O. Rečnik, I. Polyakov, V. Merunka, S. Rađikovski | Translation tool             | X       |
+| [Interslavic](https://github.com/scherebedov/interslavic) | Czech Republic           | O. Rečnik, I. Poljakov, V. Merunka, S. Rađikovski | Translation tool             | X       |
 | [jEdit](https://github.com/search?q=jedit)                | Russia                   |                                                   | IDE                          |         |
 | [JetBrains](https://github.com/JetBrains)                 | Czech Republic, Russia   |                                                   | IDE                          | X       |
 | [Kaspersky](https://github.com/search?q=kaspersky)        | Russia                   |                                                   | Programming language         |         |
@@ -26,7 +26,7 @@ A table software/hardware projects from Eastern Europe:
 | [RISC-V](https://en.wikipedia.org/wiki/RISC-V)            | Croatia                  | K. Asanović                                       | Instruction Set Architecture |         |
 | [Škoda](https://github.com/search?q=skoda)                | Czech Republic           |                                                   | Car                          |         |
 | [WinRAR](https://github.com/search?q=winrar)              | Russia                   | E. Rošal, A. Rošal                                | File archiver                |         |
-| [Yandex](https://github.com/yandex)                       | Russia                   | A. Volož, A. Borkovsky, I. Segalović             | Search Engine                | X       |
+| [Yandex](https://github.com/yandex)                       | Russia                   | A. Volož, A. Borkovski, I. Segalović             | Search Engine                | X       |
 | [7-Zip](https://github.com/search?q=7z)                   | Russia                   | I. Pavlov                                         | File archiver                |         |
 
 
