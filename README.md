@@ -9,6 +9,7 @@ A list of software, hardware and technology companies from Eastern Europe:
 | [Avast](https://github.com/avast)                         | Czech Republic           | P. Baudiš, E. Kučera                              | Anti-virus software          | X       |
 | [AVG](https://github.com/search?q=avg)                    | Czech Republic           |                                                   | Anti-virus software          |         |
 | [Elbrus](https://github.com/search?q=elbrus)              | Russia                   |                                                   | Hardware                     |         |
+| [Ethereum](https://github.com/ethereum)                   | Russia                   | V. Buterin                                        | Cryptocurrency               | X       |
 | [Factor](https://github.com/factor)                       | Russia                   |                                                   | Programming language         | X       |
 | [Gorenje](https://github.com/search?q=gorenje)            | Slovenia                 |                                                   |                              |         |
 | [Interslavic](https://github.com/scherebedov/interslavic) | Czech Republic           | O. Rečnik, I. Poljakov, V. Merunka, S. Rađikovski | Translation tool             | X       |
