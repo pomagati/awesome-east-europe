@@ -12,7 +12,7 @@ A list of software, hardware and technology companies from Eastern Europe:
 | [Ethereum](https://github.com/ethereum)                   | Russia                   | V. Buterin                                        | Cryptocurrency               | X       |
 | [Factor](https://github.com/factor)                       | Russia                   |                                                   | Programming language         | X       |
 | [Gorenje](https://github.com/search?q=gorenje)            | Slovenia                 |                                                   |                              |         |
-| [Interslavic](https://github.com/scherebedov/interslavic) | Czech Republic           | O. Rečnik, I. Poljakov, V. Merunka, S. Rađikovski | Translation tool             | X       |
+| [Interslavic](https://github.com/scherebedov/interslavic) | Czech Republic           | Sergey Čerebedov                                  | Translation tool             | X       |
 | [jEdit](https://github.com/search?q=jedit)                | Russia                   |                                                   | IDE                          |         |
 | [JetBrains](https://github.com/JetBrains)                 | Czech Republic, Russia   |                                                   | IDE                          | X       |
 | [Kaspersky](https://github.com/search?q=kaspersky)        | Russia                   |                                                   | Programming language         |         |
