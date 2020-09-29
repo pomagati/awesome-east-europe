@@ -49,3 +49,12 @@ A list of software, hardware and technology companies from Eastern Europe:
 - Slovenija/Словенија (.si)
 - Srbija/Србија (.rs)
 - Ukrajina/Украјина (.ua)
+
+<br>
+
+**Notable people (Naše ličnosti)**
+
+| Name                       | Nationality              |                        |
+| :------------------------- | :----------------------- | :--------------------- |
+| Juran, Josef               | Romania                  | Quality control        |
+| Tesla, Nikola              | Serbian                  | Invented AC            |
