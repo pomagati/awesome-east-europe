@@ -53,7 +53,7 @@ A list of software, hardware and technology companies from Eastern Europe:
 
 <br>
 
-**Notable people (Naše ličnosti)**
+**Notable (tech) people**
 
 | Name                                           | Nationality              |                                                                                           |
 | :--------------------------------------------- | :----------------------- | :---------------------------------------------------------------------------------------- |
