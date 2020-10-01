@@ -65,4 +65,5 @@ A list of software, hardware and technology companies from Eastern Europe:
 | Tesla, Nikola                                  | Serbian                  | Invented AC                                                                               |
 
 
-National encryption standard of Ukraine: https://en.wikipedia.org/wiki/Kalyna_(cipher)
+Drugo:
+- National encryption standard of Ukraine: https://en.wikipedia.org/wiki/Kalyna_(cipher)
