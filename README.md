@@ -57,11 +57,11 @@ A list of software, hardware and technology companies from Eastern Europe:
 
 | Name                                           | Nationality              |                                                                                           |
 | :--------------------------------------------- | :----------------------- | :---------------------------------------------------------------------------------------- |
-| Biryukov, A. i Khovratovič D. i Nikolić I.     | Russia, Croatia          | Cryptography                                                                              |
-| Juran, Josef                                   | Romania                  | Quality control                                                                           |
-| Pieprzyk, Josef                                | Poland                   | XSL Attack                                                                                |
-| Rejewski, Marian                               | Poland                   | Breaking German WWII Enigma as early as 1932 (this is heavily miscredited to Alan Turing) |
-| Rozycki, J. i Zygalski, H.                     | Poland                   | Aiding Marian Rejewski break the German WWII Enigma                                       |
+| Biryukov, A. i Khovratovič D. i Nikolić I.     | Russian, Croatian        | Cryptography                                                                              |
+| Juran, Josef                                   | Romanian                 | Quality control                                                                           |
+| Pieprzyk, Josef                                | Polish                   | XSL Attack                                                                                |
+| Rejewski, Marian                               | Polish                   | Breaking German WWII Enigma as early as 1932 (this is heavily miscredited to Alan Turing) |
+| Rozycki, J. i Zygalski, H.                     | Polish                   | Aiding Marian Rejewski break the German WWII Enigma                                       |
 | Tesla, Nikola                                  | Serbian                  | Invented AC                                                                               |
 
 <br>
