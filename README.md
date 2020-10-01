@@ -64,6 +64,7 @@ A list of software, hardware and technology companies from Eastern Europe:
 | Rozycki, J. i Zygalski, H.                     | Poland                   | Aiding Marian Rejewski break the German WWII Enigma                                       |
 | Tesla, Nikola                                  | Serbian                  | Invented AC                                                                               |
 
+<br>
 
 Drugo:
 - National encryption standard of Ukraine: https://en.wikipedia.org/wiki/Kalyna_(cipher)
