@@ -27,8 +27,8 @@ A list of software, hardware and technology companies from Eastern Europe:
 | [Rapira](https://github.com/search?q=rapira)              | Russia                   |                                                   | Programming language         |         |
 | [RISC-V](https://en.wikipedia.org/wiki/RISC-V)            | ~~Croatia~~ (USA)        | K. Asanović                                       | Instruction Set Architecture |         |
 | [SiFive](https://github.com/sifive)                       | ~~Croatia~~ (USA)        | K. Asanović                                       | Hardware                     |         |
-| [TED Notepad](http://jsimlo.sk/notepad/)                  | Czech Republic           | Juraj Šimlovič                                    | Text Editor                  |         |
 | [Škoda](https://github.com/search?q=skoda)                | Czech Republic           |                                                   | Car                          |         |
+| [TED Notepad](http://jsimlo.sk/notepad/)                  | Czech Republic           | Juraj Šimlovič                                    | Text Editor                  |         |
 | [WinRAR](https://github.com/search?q=winrar)              | Russia                   | E. Rošal, A. Rošal                                | File archiver                |         |
 | [Yandex](https://github.com/yandex)                       | Russia                   | A. Volož, A. Borkovski, I. Segalović              | Search Engine                | X       |
 | [1C](https://github.com/1C-Company)                       | Russia                   |                                                   | Gaming                       |         |
@@ -55,7 +55,11 @@ A list of software, hardware and technology companies from Eastern Europe:
 
 **Notable people (Naše ličnosti)**
 
-| Name                       | Nationality              |                        |
-| :------------------------- | :----------------------- | :--------------------- |
-| Juran, Josef               | Romania                  | Quality control        |
-| Tesla, Nikola              | Serbian                  | Invented AC            |
+| Name                                           | Nationality              |                                                                                           |
+| :--------------------------------------------- | :----------------------- | :---------------------------------------------------------------------------------------- |
+| Biryukov, A. i Khovratovič D. i Nikolić I.     | Russia, Croatia          | Cryptography                                                                              |
+| Juran, Josef                                   | Romania                  | Quality control                                                                           |
+| Pieprzyk, Josef                                | Poland                   | XSL Attack                                                                                |
+| Rejewski, Marian                               | Poland                   | Breaking German WWII Enigma as early as 1932 (this is heavily miscredited to Alan Turing) |
+| Rozycki, J. i Zygalski, H.                     | Poland                   | Aiding Marian Rejewski break the German WWII Enigma                                       |
+| Tesla, Nikola                                  | Serbian                  | Invented AC                                                                               |
