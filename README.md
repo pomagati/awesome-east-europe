@@ -63,3 +63,6 @@ A list of software, hardware and technology companies from Eastern Europe:
 | Rejewski, Marian                               | Poland                   | Breaking German WWII Enigma as early as 1932 (this is heavily miscredited to Alan Turing) |
 | Rozycki, J. i Zygalski, H.                     | Poland                   | Aiding Marian Rejewski break the German WWII Enigma                                       |
 | Tesla, Nikola                                  | Serbian                  | Invented AC                                                                               |
+
+
+National encryption standard of Ukraine: https://en.wikipedia.org/wiki/Kalyna_(cipher)
