@@ -23,6 +23,7 @@ A list of software, hardware and technology companies from Eastern Europe:
 | [Nginx](https://github.com/nginx)                         | Russia                   | I. Sysoev                                         | Web server                   | X       |
 | [Olimex](https://github.com/olimex)                       | Bulgaria                 |                                                   | Hardware                     | X       |
 | [PlatformIO](https://github.com/platformio)               | Ukraine                  | I. Kravets, V. Koval, V. Sidorenko                | Embedded Programming Tool    | X       |
+| [PhotoMath](https://github.com/PhotoMath)                 | Croatia                  | Damir Sabol                                       | Education App                | X       |
 | [Red](https://github.com/red)                             | Montenegro               | N. Rakočević                                      | Programming language         | X       |
 | [Rapira](https://github.com/search?q=rapira)              | Russia                   |                                                   | Programming language         |         |
 | [RISC-V](https://en.wikipedia.org/wiki/RISC-V)            | ~~Croatia~~ (USA)        | K. Asanović                                       | Instruction Set Architecture |         |
