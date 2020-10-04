@@ -33,6 +33,7 @@ A list of software, hardware and technology companies from Eastern Europe:
 | [RIZ](https://en.m.wikipedia.org/wiki/RIZ_(company))      | Yugoslavia (Croatia)     |                                                   |                              |         |
 | [SiFive](https://github.com/sifive)                       | ~~Croatia~~ (USA)        | K. Asanović                                       | Hardware                     |         |
 | [Škoda](https://github.com/search?q=skoda)                | Czech Republic           |                                                   | Car                          |         |
+| [Tesla](https://en.m.wikipedia.org/wiki/Tesla_(Czechoslovak_company)) | Czechoslovakia |                                                 | Electronics                  |         |
 | [TED Notepad](http://jsimlo.sk/notepad/)                  | Czech Republic           | Juraj Šimlovič                                    | Text Editor                  |         |
 | [WinRAR](https://github.com/search?q=winrar)              | Russia                   | E. Rošal, A. Rošal                                | File archiver                |         |
 | [Yandex](https://github.com/yandex)                       | Russia                   | A. Volož, A. Borkovski, I. Segalović              | Search Engine                | X       |
