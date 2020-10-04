@@ -10,6 +10,7 @@ A list of software, hardware and technology companies from Eastern Europe:
 | [AVG](https://github.com/search?q=avg)                    | Czech Republic           |                                                   | Anti-virus software          |         |
 | [DRAKON](https://en.m.wikipedia.org/wiki/Drakon)          | Russia                   | V. Parondzhanov                                   | Modelling language           |         |
 | [Elbrus](https://github.com/search?q=elbrus)              | Russia                   |                                                   | Hardware                     |         |
+| [Elnec](https://www.elnec.com/en/products/software/)      | Slovenia                 |                                                   | Hardware                     |         |
 | [Ethereum](https://github.com/ethereum)                   | Russia                   | V. Buterin                                        | Cryptocurrency               | X       |
 | [Factor](https://github.com/factor)                       | Russia                   |                                                   | Programming language         | X       |
 | [Gorenje](https://github.com/search?q=gorenje)            | Slovenia                 |                                                   |                              |         |
