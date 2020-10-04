@@ -9,16 +9,17 @@ A list of software, hardware and technology companies from Eastern Europe:
 | [Avast](https://github.com/avast)                         | Czech Republic           | P. Baudiš, E. Kučera                              | Anti-virus software          | X       |
 | [AVG](https://github.com/search?q=avg)                    | Czech Republic           |                                                   | Anti-virus software          |         |
 | [DRAKON](https://en.m.wikipedia.org/wiki/Drakon)          | Russia                   | V. Parondzhanov                                   | Modelling language           |         |
+| [Digitron](https://en.m.wikipedia.org/wiki/Digitron_(company) | Yugoslavia (Croatia) |                                                   | First handheld calculator in Europe |  |
 | [Elbrus](https://github.com/search?q=elbrus)              | Russia                   |                                                   | Hardware                     |         |
 | [Elnec](https://www.elnec.com/en/products/software/)      | Slovenia                 |                                                   | Hardware                     |         |
 | [Ethereum](https://github.com/ethereum)                   | Russia                   | V. Buterin                                        | Cryptocurrency               | X       |
 | [Factor](https://github.com/factor)                       | Russia                   |                                                   | Programming language         | X       |
-| [Gorenje](https://github.com/search?q=gorenje)            | Slovenia                 |                                                   |                              |         |
+| [Gorenje](https://github.com/search?q=gorenje)            | Yugoslavia (Slovenia)    |                                                   |                              |         |
 | [Interslavic](https://github.com/scherebedov/interslavic) | Czech Republic           | Sergey Čerebedov                                  | Translation tool             | X       |
 | [jEdit](https://github.com/search?q=jedit)                | Russia                   |                                                   | IDE                          |         |
 | [JetBrains](https://github.com/JetBrains)                 | Czech Republic, Russia   |                                                   | IDE                          | X       |
 | [Kaspersky](https://github.com/search?q=kaspersky)        | Russia                   |                                                   | Programming language         |         |
-| [Končar](https://en.wikipedia.org/wiki/KON%C4%8CAR_Group) | Croatia                  |                                                   | Energy                       |         |
+| [Končar](https://en.wikipedia.org/wiki/KON%C4%8CAR_Group) | Yugoslavia (Croatia)     |                                                   | Energy                       |         |
 | [Kotlin](https://github.com/kotlin)                       | Czech Republic, Russia   | A. Breslav                                        | Programming language         | X       |
 | [mail.ru](https://github.com/mailru)                      | Russia                   |                                                   | E-mail                       | X       |
 | [MikroElektronika](https://github.com/mikroelektronika)   | Serbia                   |                                                   | Hardware                     | X       |
