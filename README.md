@@ -9,7 +9,7 @@ A list of software, hardware and technology companies from Eastern Europe:
 | [Avast](https://github.com/avast)                         | Czech Republic           | P. Baudiš, E. Kučera                              | Anti-virus software          | X       |
 | [AVG](https://github.com/search?q=avg)                    | Czech Republic           |                                                   | Anti-virus software          |         |
 | [DRAKON](https://en.m.wikipedia.org/wiki/Drakon)          | Russia                   | V. Parondzhanov                                   | Modelling language           |         |
-| [Digitron](https://en.m.wikipedia.org/wiki/Digitron_(company) | Yugoslavia (Croatia) |                                                   | First handheld calculator in Europe |  |
+| [Digitron](https://en.m.wikipedia.org/wiki/Digitron_(company)) | Yugoslavia (Croatia) |                                                   | First handheld calculator in Europe |  |
 | [Elbrus](https://github.com/search?q=elbrus)              | Russia                   |                                                   | Hardware                     |         |
 | [Elnec](https://www.elnec.com/en/products/software/)      | Slovenia                 |                                                   | Hardware                     |         |
 | [Ethereum](https://github.com/ethereum)                   | Russia                   | V. Buterin                                        | Cryptocurrency               | X       |
