@@ -64,7 +64,7 @@ A list of software, hardware and technology companies from Eastern Europe:
 | Pieprzyk, Josef                                | Polish                   | XSL Attack                                                                                |
 | Rejewski, Marian                               | Polish                   | Breaking German WWII Enigma as early as 1932 (this is heavily miscredited to Alan Turing) |
 | Rozycki, J. i Zygalski, H.                     | Polish                   | Aiding Marian Rejewski break the German WWII Enigma                                       |
-| Tesla, Nikola                                  | Serbian                  | Invented AC                                                                               |
+| Tesla, Nikola                                  | Serbian                  | Invented AC, X-ray (miscredited to Roengten), Tesla Coil, ...                             |
 
 <br>
 
