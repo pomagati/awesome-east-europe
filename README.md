@@ -23,21 +23,26 @@ A list of software, hardware and technology companies from Eastern Europe:
 | [Kotlin](https://github.com/kotlin)                       | Czech Republic, Russia   | A. Breslav                                        | Programming language         | X       |
 | [mail.ru](https://github.com/mailru)                      | Russia                   |                                                   | E-mail                       | X       |
 | [MikroElektronika](https://github.com/mikroelektronika)   | Serbia                   |                                                   | Hardware                     | X       |
+| [M SAN Grupa](https://www.msan.hr/)                       | Croatia                  |                                                   | Electronics                  |         |
 | [Nginx](https://github.com/nginx)                         | Russia                   | I. Sysoev                                         | Web server                   | X       |
 | [Olimex](https://github.com/olimex)                       | Bulgaria                 |                                                   | Hardware                     | X       |
+| [Pupilla](https://www.pupilla.hr/)                        | Croatia                  |                                                   | B2B Software                 |         |
 | [PlatformIO](https://github.com/platformio)               | Ukraine                  | I. Kravets, V. Koval, V. Sidorenko                | Embedded Programming Tool    | X       |
 | [PhotoMath](https://github.com/PhotoMath)                 | Croatia                  | Damir Sabol                                       | Education App                | X       |
 | [Red](https://github.com/red)                             | Montenegro               | N. Rakočević                                      | Programming language         | X       |
 | [Rapira](https://github.com/search?q=rapira)              | Russia                   |                                                   | Programming language         |         |
 | [RISC-V](https://en.wikipedia.org/wiki/RISC-V)            | ~~Croatia~~ (USA)        | K. Asanović                                       | Instruction Set Architecture |         |
 | [RIZ](https://en.m.wikipedia.org/wiki/RIZ_(company))      | Yugoslavia (Croatia)     |                                                   |                              |         |
+| [Selk](https://selk.hr/)                                  | Croatia                  |                                                   | Electronics                  |         |
 | [SiFive](https://github.com/sifive)                       | ~~Croatia~~ (USA)        | K. Asanović                                       | Hardware                     |         |
 | [Škoda](https://github.com/search?q=skoda)                | Czech Republic           |                                                   | Car                          |         |
 | [Tesla](https://en.m.wikipedia.org/wiki/Tesla_(Czechoslovak_company)) | Czechoslovakia |                                                 | Electronics                  |         |
 | [TED Notepad](http://jsimlo.sk/notepad/)                  | Czech Republic           | Juraj Šimlovič                                    | Text Editor                  |         |
+| [Tomsoft](https://www.tomsoft.hr/)                        | Croatia                  |                                                   | Software                     |         |
 | [WinRAR](https://github.com/search?q=winrar)              | Russia                   | E. Rošal, A. Rošal                                | File archiver                |         |
 | [Yandex](https://github.com/yandex)                       | Russia                   | A. Volož, A. Borkovski, I. Segalović              | Search Engine                | X       |
 | [1C](https://github.com/1C-Company)                       | Russia                   |                                                   | Gaming                       |         |
+| [4D Wand](https://www.4d.hr/)                             | Croatia                  |                                                   | Software                     |         |
 | [7-Zip](https://github.com/search?q=7z)                   | Russia                   | I. Pavlov                                         | File archiver                |         |
 
 <br>
