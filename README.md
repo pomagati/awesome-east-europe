@@ -79,5 +79,6 @@ A list of software, hardware and technology companies from Eastern Europe:
 
 | Protocols and Algorithms                                                                                                          |
 | :-------------------------------------------------------------------------------------------------------------------------------- |
+| [AVL Trees](https://en.wikipedia.org/wiki/AVL_tree)                                                                               |
 | [Kalyna](https://en.wikipedia.org/wiki/Kalyna_(cipher))                                                                           |
 
