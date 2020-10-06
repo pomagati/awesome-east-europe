@@ -66,16 +66,18 @@ A list of software, hardware and technology companies from Eastern Europe:
 
 **Notable (tech) people**
 
-| Name                                           | Nationality              |                                                                                           |
-| :--------------------------------------------- | :----------------------- | :---------------------------------------------------------------------------------------- |
-| Biryukov, A. i Khovratovič D. i Nikolić I.     | Russian, Croatian        | Cryptography                                                                              |
-| Juran, Josef                                   | Romanian                 | Quality control                                                                           |
-| Pieprzyk, Josef                                | Polish                   | XSL Attack                                                                                |
-| Rejewski, Marian                               | Polish                   | Breaking German WWII Enigma as early as 1932 (this is heavily miscredited to Alan Turing) |
-| Rozycki, J. i Zygalski, H.                     | Polish                   | Aiding Marian Rejewski break the German WWII Enigma                                       |
-| Tesla, Nikola                                  | Serbian                  | Invented AC, X-ray (miscredited to Roengten), Tesla Coil, ...                             |
+| Name                                           |                                                                                           |
+| :--------------------------------------------- | :---------------------------------------------------------------------------------------- |
+| Biryukov, A. i Khovratovič D. i Nikolić I.     | Cryptography                                                                              |
+| Juran, Josef                                   | Quality control                                                                           |
+| Pieprzyk, Josef                                | XSL Attack                                                                                |
+| Rejewski, Marian                               | Breaking German WWII Enigma as early as 1932 (this is heavily miscredited to Alan Turing) |
+| Rozycki, J. i Zygalski, H.                     | Aiding Marian Rejewski break the German WWII Enigma                                       |
+| Tesla, Nikola                                  | Invented AC, X-ray (miscredited to Roengten), Tesla Coil, ...                             |
 
 <br>
 
-Drugo:
-- National encryption standard of Ukraine: https://en.wikipedia.org/wiki/Kalyna_(cipher)
+| Protocols and Algorithms                                                                                                          |
+| :-------------------------------------------------------------------------------------------------------------------------------- |
+| [Kalyna](https://en.wikipedia.org/wiki/Kalyna_(cipher))                                                                           |
+
