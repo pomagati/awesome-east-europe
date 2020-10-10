@@ -6,6 +6,7 @@ A list of software, hardware and technology companies from Eastern Europe:
 | Name                                                      | Country                  | Key People                                        | Description                  | Github  |
 | :-------------------------------------------------------- | :----------------------- | :------------------------------------------------ | :--------------------------- | :-----: |
 | [Amebis](https://github.com/amebis)                       | Slovenia                 |                                                   | Language technology          | X       |
+| [Astra Linux](http://www.astralinux.ru/)                  | Russia                   |                                                   | Operating System             |         |
 | [Avast](https://github.com/avast)                         | Czech Republic           | P. Baudiš, E. Kučera                              | Anti-virus software          | X       |
 | [AVG](https://github.com/search?q=avg)                    | Czech Republic           |                                                   | Anti-virus software          |         |
 | [DRAKON](https://en.m.wikipedia.org/wiki/Drakon)          | Russia                   | V. Parondzhanov                                   | Modelling language           |         |
