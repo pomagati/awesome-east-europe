@@ -28,9 +28,10 @@ A list of software, hardware and technology companies from Eastern Europe:
 | [M SAN Grupa](https://www.msan.hr/)                       | Croatia                  |                                                   | Electronics                  |         |
 | [Nginx](https://github.com/nginx)                         | Russia                   | I. Sysoev                                         | Web server                   | X       |
 | [Olimex](https://github.com/olimex)                       | Bulgaria                 |                                                   | Hardware                     | X       |
-| [Pupilla](https://www.pupilla.hr/)                        | Croatia                  |                                                   | B2B Software                 |         |
+| [ParaType](https://www.paratype.com/)                     | Russia                   |                                                   | Font                         |         |
 | [PlatformIO](https://github.com/platformio)               | Ukraine                  | I. Kravets, V. Koval, V. Sidorenko                | Embedded Programming Tool    | X       |
 | [PhotoMath](https://github.com/PhotoMath)                 | Croatia                  | Damir Sabol                                       | Education App                | X       |
+| [Pupilla](https://www.pupilla.hr/)                        | Croatia                  |                                                   | B2B Software                 |         |
 | [Red](https://github.com/red)                             | Montenegro               | N. Rakočević                                      | Programming language         | X       |
 | [Rapira](https://github.com/search?q=rapira)              | Russia                   |                                                   | Programming language         |         |
 | [RISC-V](https://en.wikipedia.org/wiki/RISC-V)            | ~~Croatia~~ (USA)        | K. Asanović                                       | Instruction Set Architecture |         |
@@ -86,3 +87,8 @@ A list of software, hardware and technology companies from Eastern Europe:
 | [AVL Trees](https://en.wikipedia.org/wiki/AVL_tree)                                                                               |
 | [Kalyna](https://en.wikipedia.org/wiki/Kalyna_(cipher))                                                                           |
 
+<br>
+
+Ideas:
+- Create Google Sheets-/Docs-/Slide equivalent on top of [Yandex Disk](https://yandex.com/dev/disk/), browser
+- 
